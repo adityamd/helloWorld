@@ -1,6 +1,4 @@
-sudo: "enabled",
 language: "python",
 before_install:
-  - "sudo apt-get update"
   - "pip install PyYAML"
 
