@@ -1,7 +1,7 @@
 sudo: "enabled"
 os: "linux"
 dist: "ubuntu"
-language: "python",
+language: "python"
 before_install:
   - "pip install PyYAML"
 
