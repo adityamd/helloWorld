@@ -3,5 +3,5 @@ os: "linux"
 dist: "ubuntu"
 language: "python"
 before_install:
-  - "pip install PyYAML"
+  - "sudo apt-get update"
 
