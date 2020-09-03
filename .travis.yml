@@ -6,4 +6,6 @@ before_install:
   - "sudo apt-get update"
 install:
   - "pip install pyYAML"
+script:
+  - pytest
 
