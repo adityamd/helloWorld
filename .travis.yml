@@ -1,6 +1,6 @@
 sudo: "enabled"
 os: "linux"
-dist: "debian"
+dist: "trusty"
 language: "python"
 before_install:
   - "sudo apt-get update"
